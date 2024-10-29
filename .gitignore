@@ -1,0 +1,22 @@
+
+---
+
+### **.gitignore**
+
+```gitignore
+# Ignore compiled files and output folders
+bin/
+
+# Ignore libraries
+lib/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore Visual Studio Code files
+.vscode/
+*.code-workspace
+
+# Ignore OS-specific files
+Thumbs.db
+desktop.ini
