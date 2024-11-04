@@ -1,4 +1,4 @@
-## 
+## Solitaire programmed in Java
 
 ## JavaFX Project Setup
 - Ensure JavaFX SDK is installed.
